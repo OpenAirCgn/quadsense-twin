@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Logo)(type KiCad)(uri /Users/matthias/Development/Kicad/openairnode-hw/Logo/)(options "")(descr ""))
+  (lib (name everykey)(type KiCad)(uri ${KIPRJMOD}/../kicad-libraries/everykey.pretty)(options "")(descr ""))
+)
